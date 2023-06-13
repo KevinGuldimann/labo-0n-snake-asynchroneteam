@@ -1,4 +1,5 @@
 author = 'Rohan Das'
+modif_authors = ['Samuel Meystre', 'Kevin Guldimann']
 
 #Importing The Modules
 import pygame
@@ -19,7 +20,7 @@ snakegreen = (35, 45, 40)
 #Game Backgrounds
 bg1 = pygame.image.load("Screen/bg.jpg")
 bg2 = pygame.image.load("Screen/bg2.jpg")
-intro = pygame.image.load("Screen/intro1.png")
+intro = pygame.image.load("Screen/Intro1.png")
 outro = pygame.image.load("Screen/outro.png")
 
 #Creating The window
